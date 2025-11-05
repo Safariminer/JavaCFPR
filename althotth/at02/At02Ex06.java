@@ -6,7 +6,9 @@ public class At02Ex06 {
     public static void main(String[] args) {
         
         Scanner entree = new Scanner(System.in);
+        
         ArrayList<Integer> nombres = new ArrayList<Integer>();
+
         do {
             nombres.add(entree.nextInt());
         } while(nombres.getLast() != 0);
