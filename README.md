@@ -8,3 +8,6 @@ Exercices pour le cours d'enrichissement de Java au Centre de Formation Professi
 - ``commun`` : dossier fourni par l'enseignant
 - ``lib`` : dossier fourni par l'enseignant
 - ``sandbox`` : dossier fourni par l'enseignant
+
+## Questions
+GitHub supporte les "issues" qui normalement sont destinées à du bugtracking sur le projet concerné. Spécialement ici, vous pouvez poser et répondre à des questions sur le module d'enrichissement.
